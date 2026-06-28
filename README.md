@@ -111,7 +111,7 @@ LIMS_system/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/LIXIAN-Pro/LIMS_system.git
+git clone https://github.com/LXIANCodes/LIMS_system.git
 cd LIMS_system
 ```
 
